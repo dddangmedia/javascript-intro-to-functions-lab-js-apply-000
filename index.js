@@ -3,7 +3,7 @@ function shout(string) {
 }
 
 function sayHiToGrandma(string) {
-  if(string === lowercase) {
+  if(string === 'hello') {
     return console.log("I can't hear you!");
   }
 }
